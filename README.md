@@ -23,7 +23,7 @@ GIS is a perfect example of a tool that is so powerful, it tends to put you out 
 ## **My Portfolio** 
 
 ### [Data Visualization in the Real World](/cave_photo.md)
-Looking for data visuzalizations in the real world
+Looking for data visualizations in the real world.
 
 ### Controlling Color
 
