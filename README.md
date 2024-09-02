@@ -5,8 +5,7 @@
 
 
 
-<details> 
-  <summary><h3><b>BIO</b></h3></summary>
+<details> <summary><h3><b>BIO</b></h3></summary>
   
   ### About Me
  I am currently a second year Masters of Public Policy and Management Student at CMU's Heinz College. I moved to Pittsburgh in 2021 from Memphis, TN with the intent of going to medical school. For fear of not having access to enough parking, I decided to sell my car and I bought an e-bike. The e-bike showed me a completely new way of interacting with the world around me and the more I learned about transportation and the urban environment, I realized I needed a career change. So to learn the technical skills and policy chops I did not get with my BS in Biochemistry and Molecular Biology, I decided to attend Heinz. With this degree, I aim to develop the skills necessary to start a new career in Transportation policy, advocacy, and improving our built environment. 
