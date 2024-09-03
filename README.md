@@ -1,3 +1,6 @@
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+
+
 # **Portfolio, Telling Stories With Data, Fall 2024**
 ## Morgan Shaw,  
 ### MSPPM, '25. He/him. 
