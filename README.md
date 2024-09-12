@@ -1,7 +1,7 @@
 # **Portfolio, Telling Stories With Data, Fall 2024**
 ## Morgan Shaw,  
 ### MSPPM, '25. He/him. 
-Link: https://morgansh9212.github.io/morgan_shaw_portfolio/
+[**Link to this page**](https://morgansh9212.github.io/morgan_shaw_portfolio/)
 
 
   
