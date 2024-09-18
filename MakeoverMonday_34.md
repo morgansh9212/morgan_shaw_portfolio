@@ -1,1 +1,0 @@
-### #MakeoverMonday: Visualizing Vacancy Rates
