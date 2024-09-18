@@ -21,7 +21,7 @@ Looking for data visualizations in the real world.
 
 ### [**1. Crafting for Clarity**](/datavizwk2.md) 
 
-### 2. 
+### 2. [#MakeOverMonday: Housing Vacancy Rates](/MakeoverMonday_34.html)
 
 ### 3. 
 
