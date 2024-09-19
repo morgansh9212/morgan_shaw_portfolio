@@ -16,7 +16,8 @@
 <p>
   <figure>
     <img src="vacancyrates_original.jpg" 
-      alt="Map of US with Top 10 Highest Vacancy Rates Depicted. The city locations are labeled with orange circles and the states are highlighted in orange. There is a list of the top 10 vacancy rates in the Metros to the side of the map" style="width:80%">
+      alt="Map of US with Top 10 Highest Vacancy Rates Depicted. The city locations are labeled with orange circles and the states are highlighted in orange. There is a list of the top 10 vacancy rates in the Metros to the side of the map" 
+      style="width:80%">
     <figcaption> <b> US Metros with Top 10 Highest Vacancy Rates, Source: <a href="https://www.lendingtree.com/content/uploads/2023/09/Vacancy-Rate-by-Metro_Orange-1.jpg"> LendingTree</a> </b> </figcaption>
 </figure>
   </p>
@@ -29,8 +30,9 @@
 Using Stephen Few's <a href="http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf"> Data Visualization Effectiveness Profile </a>
   method, I walked through how this viz attempted to tell the story of Vacancy Rates across the US. <br> Each score is out of 10.
 </p>
-<h3> Informative</h3>
-<h4> Usefulness: 4 </h4>
+<h3> <u>Informative</u></h3>
+  <p></p>
+<h4> Usefulness: 4/10 </h4>
 <p>
 While this map (and its <a href="https://www.lendingtree.com/content/uploads/2023/09/Vacancy-Rate-by-Metro_Green-1.jpg"> complement</a>) 
   depicting the top 10 lowest Vacancy Rates) tells you the top 10 vacancy rates, it quite literally <i>only shows you that.</i> 
@@ -38,18 +40,18 @@ While this map (and its <a href="https://www.lendingtree.com/content/uploads/202
   Top 10 lists are popular and shareable and tend to strike up conversation.<br>
   If you are aiming to gain any understanding of the phenomenon of housing vacancy beyond this fact, you won't be able to glean it from this map. 
 </p>
-<h4> Completeness: 5 </h4>
+<h4> Completeness: 5/10 </h4>
   <p>
     The map gives you the information it claims to give you but inexplicably separates the lowest and highest vacancy rates. <br>
     If you were attempting to glean any regional patterns from the figure, you cannot compare the highest and lowest of rates. <br>
     Further, if you wanted to see just how high the highest rate or how low the lowest rate is, this map does not provide any numerical data.
   </p>
-<h4> Perceptibility: 6 </h4>
+<h4> Perceptibility: 6/10 </h4>
   <p>
     The use of a map only serves to confuse the readers' eye as they look for the top 10. While it shows you where each of the <br>
     cities are in the US, it instead has you searching for the ranking number and it is difficult to rank the cities <br> in any meaningful order without the chart.
   </p>
-<h4> Truthfulness: 8 </h4>
+<h4> Truthfulness: 8/10 </h4>
   <p>
     It does not attempt to hide any data from the user. It presents you with what it claims to prevent you. <br>
     However, the use of the color orange to depict high vacancy rates is interesting. People familiar with housing policy <br>
@@ -58,21 +60,37 @@ While this map (and its <a href="https://www.lendingtree.com/content/uploads/202
       href="https://www.americanprogress.org/article/the-rental-housing-crisis-is-a-supply-problem-that-needs-supply-solutions/#:~:text=Historically%2C%20low%20rental%20vacancy%20rates%20make%20it%20much%20harder%20for%20families%20to%20find%20an%20affordable%20housing"> 
       higher housing costs and rents </a>. 
     A constrained market is much worse <br>
-    for renters. Wouldn't that make one think the potentially negative color of orange <br> might be better suited for low vacancy rates?
+    for renters. Wouldn't that make one think the potentially negative color of orange might be better suited for low vacancy rates?
   </p>
 <h4> Intuitiveness: 7 </h4>
   <p>
-    
+    The map is very easy to understand, even if it can be a bit confusing to look through. <br> 
+    The clear title and simple concept mean it is very easy to read.
   </p>
-<h3> Emotive </h3>
+<h3> <u>Emotive</u> </h3>
 <h4> Aesthetics: 6 </h4>
   <p>
-    
+    Very simple aesthetics and clean use of colors. The font is very legible and gray is used well. 
   </p>
 <h4> Engagement: 5 </h4>
   <p>
-    
+    The colors and the map do draw your eye in, but there is not much substance to the visualization so one quickly loses interest.
   </p>
-  
+
+<h2>
+Sketching a New Vizualization
+</h2>
+<p>
+  I first did a hand sketch on a new way to represent the data in a map. <br>
+  <img src="IMG_0019.jpg"
+    alt="Hand drawn map of US with blue and orange circles to represent metros. The circles are of slightly different size to represent metro size.
+    There is a hand drawn legend showing 1% as low and orange and blue as high."
+    style="width:80%">
+<br>
+  I first thought of how I could potentially show high and low vacancy metros on the same map to help the viewer see more regional, spatial patterns.
+  I also thought it would be helpful to see how vacancy and metro size correlated. By using the included Total Housing Units Data, I figured I could show how population size and vacancy rate interacted.
+<br>
+  I built a map fairly quickly in Tableau to try and demonstrate this. 
+</p>
 </body>
 </html>
