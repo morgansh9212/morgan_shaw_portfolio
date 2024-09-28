@@ -23,6 +23,8 @@ Looking for data visualizations in the real world.
 
 ### 2. [#MakeOverMonday: Housing Vacancy Rates](/MakeoverMonday_34.html)
 
-### 3. 
+### 3. [Final Project, Part I](/finalproject_part_i.md)
+
+### 4. 
 
 ### **??. Final Project**
