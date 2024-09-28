@@ -48,6 +48,7 @@ I will be using the large dataset of monthly eviction data for all cities and th
 |Nationwide Monthly Eviction Counts, Eviction Lab|[**LINK**](https://evictionlab.org/eviction-tracking/get-the-data/#:~:text=Monthly%20Data-,All%20Cities,-%2D)| Counts of Evictions in all cities being tracked by Month.|
 |Pittsburgh Monthly Eviction Counts|[**LINK**](/pgh_eviction_data.csv)|Monthly counts of Evictions in Pittsburgh, PA, cleaned from Eviction Lab Data|
 |Kansas City Monthly Eviction Counts|[**LINK**](/kc_evictions_sepdate.csv)|Monthly counts of Evictions in Kansas City, MO, cleaned from Eviction lab Data|
+
 --------
 # Method and medium
 I intend to use Tableau to create my data visualizations and potentially use Shorthand to build an effective storytelling page. 
