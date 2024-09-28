@@ -21,7 +21,7 @@ And so I downloaded the data available on the Eviction Lab and began to look thr
 ## Initial sketches
 Before I did much data cleaning, I drew up a sketch of a line graph showing a potential city that adopted a Right To Counsel law at some point close to the middle of the range of the data the Eviction Lab provided (somewhere between 2020 and 2024). I aimed to show how evictions might reduce over time with this rules' adoption and naturally considered a line graph with a clear marker for the date eviction was adopted.  
 
-<img src="/fp_pi_sketch1.png"
+<img src="fp_pi_sketch1.png"
   width="600"/>
 
 After I did some cleaning and playing around with the data and made some initial visualizations, it was clear the data was going to be very noisy. Evictions are highly seasonal and change from month to month for a number of reasons. 
@@ -33,7 +33,7 @@ To show how these rates might be changing over time, I considered how I might gr
 *Perhaps I could show the 3 or 4 years of change in the span of 12 months?*  
 
 
-<img src="/fp_pi_sketch2bar.png"
+<img src="fp_pi_sketch2bar.png"
     width="600"/>
 
 ------------------------------------  
