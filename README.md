@@ -25,6 +25,6 @@ Looking for data visualizations in the real world.
 
 ### 3. [Final Project, Part I](/finalproject_part_i.md)
 
-### 4. [Final Project, Part II] (/finalproject_part_ii.md)
+### 4. [Final Project, Part II](/finalproject_part_ii.md)
 
 <!-- ### **??. Final Project** -->
