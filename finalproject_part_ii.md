@@ -1,4 +1,4 @@
-| [home page](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [#MakeoverMonday](https://morgansh9212.github.io/morgan_shaw_portfolio/MakeoverMonday_34.html) | [final project I](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_i.html) | <!-- [final project III]() | -->
+<strong>| [Home Page](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [#MakeoverMonday](https://morgansh9212.github.io/morgan_shaw_portfolio/MakeoverMonday_34.html) | [final project I](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_i.html) | [final project III]() | </strong>
 
 
 # Storyboarding
