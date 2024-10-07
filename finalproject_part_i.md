@@ -1,5 +1,5 @@
-| [home page](https://morgansh9212.github.io/morgan_shaw_portfolio/)
-
+<b> | [Home Page](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [Final Project, Part II](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_ii.html) | [Final Project, Part III](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_ii.html) |</b>
+  
 
 
 # Eviction and the Right To Counsel
