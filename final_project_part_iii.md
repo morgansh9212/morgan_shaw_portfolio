@@ -1,4 +1,4 @@
-<strong>| [Home Page](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [#MakeoverMonday](https://morgansh9212.github.io/morgan_shaw_portfolio/MakeoverMonday_34.html) | [final project I](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_i.html) | [final project III]() | </strong>
+<strong>| [Home Page](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [#MakeoverMonday](https://morgansh9212.github.io/morgan_shaw_portfolio/MakeoverMonday_34.html) | [final project part I](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_i.html) | [final project part II](https://morgansh9212.github.io/morgan_shaw_portfolio/finalproject_part_ii.html) | </strong>
 
 # Stopping the Resurgence of Eviction
 <b> [Final Eviction Story on Shorthand](https://carnegiemellon.shorthandstories.com/the-resurgence-of-eviction/) </b>
@@ -35,12 +35,18 @@ I then presented my most complex visualization, depicting how rates have changed
 
 
 ## The audience
-Matthew Desmond's novel, *Evicted*, the inspiration for the Eviction Lab as well as this project, is proof that the story of eviction is one that has broad emotional reach. While I still wanted my story to be useful for the general interested public, I knew it was most important that this reach current and future policymakers. My user research engaged future policy makers, both people who are interested in the space and who are interested in other spaces. 
+Matthew Desmond's novel, [*Evicted*](evictedbook.com), the Pulitzer Prize winner and the inspiration for the Eviction Lab (as well as this project), is proof that the story of eviction is one that has broad emotional reach. While I still wanted my story to be useful for the general interested public, I knew it was most important that this reach current and future policymakers. My user research engaged future policy makers, both people who are interested in the space and who are interested in other spaces. 
 
 Policymakers on the fringes of housing policy know about eviction, but I wanted to point out that its effects would again start to ripple through communities they serve. Whether they work in transportation, food policy, or community development, all of their causes are threatened by eviction.  
 
-An effective story would remind them that they need to make sure eviction is a central focus of policy. 
+An effective story would help them to recenter eviction and treat it like the threat that it is. 
 
 
-# Final thoughts
+## Final thoughts
+
+While I hoped to tell the story of one of my calls to action, the right to counsel, I realized its complexities would be too much for this assignment. Should I revisit this topic in the future, I think showing how policies like right to counsel, increasing eviction filing costs, and targeting the parcels overrepresented in eviction court affect rates in real time is a great way to demonstrate evictions' urgency.  
+
+I would love to see a map that demonstrates just how aggressive some of the worst offenders are, a correlation of eviction filing costs and rates of eviction, and how access to counsel affects each step of the eviction process.  
+
+Most of all, I would love to see policymakers standing up against the rising tide of eviction and helping our most vulnerable populations stay housed. 
 
