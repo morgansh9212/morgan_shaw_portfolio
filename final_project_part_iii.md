@@ -4,28 +4,31 @@
 <b> [Final Eviction Story on Shorthand](https://carnegiemellon.shorthandstories.com/the-resurgence-of-eviction/) </b>
 
 
-
-
-# Breaking Up the Visualization
+## Breaking Up the Visualization
 To tell the story of climbing eviction rates in the wake of COVID-19, I needed to develop a way to show how something as volatile as Eviction rates over time, while still keeping the granularity of month-to-month variation.
 My first round of visualizations did a great job of getting its viewers to think about questions like: 
-*"Why does the rate seem to peak in the same months each year?"*
-*"Why does the rate seem to drop so heavily in some months?"*
-Of course, these are not questions I could immediately answer in one visualization but I have always found that the most engaging visualizations are the ones that immediately drive you to generate your own research questions. Even if the presenter does not end up answering that question, the especially interested audience leaves with their own call-to-action. 
-To do this, I broke up my visualization just a bit more. With the effect of the moratorium being so stark, I decided to structure my story around its general gravity. By showing how the moratorium fit into the overall picture and how its bookends showed a clear 
+
+*"Why does the rate seem to peak in the same months each year?"*  
+
+*"Why does the rate seem to drop so heavily in some months?"*  
+
+Of course, these are not questions I could immediately answer in one visualization but I have always found that the most engaging visualizations are the ones that immediately drive you to generate your own research questions. Even if the presenter does not end up answering that question, the especially interested audience leaves with their own call-to-action.  
+
+To do this, I broke up my visualization just a bit more. With the effect of the moratorium being so stark, I decided to structure my story around its general gravity. By showing how the moratorium fit into the overall picture and how its bookends showed a clear change in the trend of eviction, I saw an opportunity generate a moral question within my audience:  
+
+> ### <b><i>If we know eviction is so harmful and the great experiment of a nationwide moratorium showed us what a different housing reality might look like, how do we stop eviction in the US from going back to business as usual?</i></b>
+
+I then presented my most complex visualization, depicting the 
+
+---  
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Matthew Desmond's novel, *Evicted*, the inspiration for the Eviction Lab as well as this project, is proof that the story of eviction is one that has broad emotional reach. While I still wanted my story to be useful for the general interested public, I knew it was most important that this reach current and future policymakers. My user research engaged future policy makers, both people who are interested in the space and who are interested in other spaces. 
 
-Text here!
+Policymakers on the fringes of housing policy know about eviction, but I wanted to point out that its effects would again start to ripple through communities they serve. Whether they work in transportation, food policy, or community development, all of their causes are threatened by eviction.  
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+An effective story would remind them that they need to make sure eviction is a central focus of policy. 
 
 Text here!
 
