@@ -1,8 +1,7 @@
-# **Portfolio, Telling Stories With Data, Fall 2024**
+# **Portfolio, Morgan Shaw**
 ## Morgan Shaw,  
 ### MSPPM, '25. He/him. 
-[**Link to this page**](https://morgansh9212.github.io/morgan_shaw_portfolio/)
-
+[**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [GIS Work](/GIS/porfoliopage.md) | [Data Viz](/DataViz/portfoliopage.md)
 
   
 ### About Me
@@ -11,11 +10,15 @@ I have already discovered a love for GIS, policy research, data wrangling and an
 When I'm not talking about biking, the bus, or walkable cities, I'm typically playing with my poodle, Louie, cooking up interesting things in the kitchen, or out exploring the city on my Brompton. 
 
 
-### What I hope to Learn
-GIS is a perfect example of a tool that is so powerful, it tends to put you out ahead of your skis. If you are not careful and intentional about how you use color, imagery, and symbols, your audience might miss the important story you are trying to tell using your maps. I hope to learn all the basics of making data vizualizations that are engaging and also leave my audience understanding the story I want to tell as well as ready to take that story or knowledge and push it further. Understanding is one thing, but being inspired is another. Good data storytelling will help me as I work to reform the most dangerous city for pedestrians in the US, [Memphis, TN](https://smartgrowthamerica.org/memphis-dangerous-by-design-video/). In Memphis, the car dominates nearly all of our public space and humans have paid the price for that domination. To change the perspective of a city addicted to driving, I will need to tell the story of those people most hurt by this system. This course will show how to empathetically and effectively tell these stories. 
+<!--### What I hope to Learn
+GIS is a perfect example of a tool that is so powerful, it tends to put you out ahead of your skis. If you are not careful and intentional about how you use color, imagery, and symbols, your audience might miss the important story you are trying to tell using your maps. I hope to learn all the basics of making data vizualizations that are engaging and also leave my audience understanding the story I want to tell as well as ready to take that story or knowledge and push it further. Understanding is one thing, but being inspired is another. Good data storytelling will help me as I work to reform the most dangerous city for pedestrians in the US, [Memphis, TN](https://smartgrowthamerica.org/memphis-dangerous-by-design-video/). In Memphis, the car dominates nearly all of our public space and humans have paid the price for that domination. To change the perspective of a city addicted to driving, I will need to tell the story of those people most hurt by this system. This course will show how to empathetically and effectively tell these stories.-->
 
-## **My Portfolio** 
+# **My Portfolio** 
+## GIS
+### 
 
+
+## Data Visualization and Telling Stories With Data
 ### [Data Visualization in the Real World](/cave_photo.md)
 Looking for data visualizations in the real world.
 
