@@ -1,7 +1,7 @@
 # **Portfolio, Morgan Shaw**
 ## Morgan Shaw,  
 ### MSPPM, '25. He/him. 
-[**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [GIS Work](morgan_shaw_portfolio/GIS/porfoliopage.md) | [Data Viz](morgan_shaw_portfolio/DataViz/portfoliopage.md)
+[**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [GIS Work](GIS/porfoliopage.md) | [Data Viz](DataViz/portfoliopage.md)
 
   
 ### About Me
