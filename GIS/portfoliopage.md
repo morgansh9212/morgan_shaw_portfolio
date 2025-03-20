@@ -9,3 +9,7 @@ When I'm not talking about biking, the bus, or walkable cities, I'm typically pl
 ### What I Hope To Learn
 I'm hoping to learn about how to advance my GIS skills and how to use them in a professional setting. I am hoping to work in local government, which means becoming an efficient GIS project manager will help me to be effective and responsive to the often rapidly changing needs of the city. 
 
+### Assignments
+#### Assignment 1
+#### Assignment 2
+#### Final Project
