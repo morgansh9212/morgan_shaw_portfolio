@@ -23,7 +23,7 @@ GIS is a perfect example of a tool that is so powerful, it tends to put you out 
 ### [Data Visualization in the Real World](/cave_photo.md)
 Looking for data visualizations in the real world.
 
-### [**1. Crafting for Clarity**](/datavizwk2.md) 
+### 1. [Crafting for Clarity](/datavizwk2.md) 
 
 ### 2. [#MakeOverMonday: Housing Vacancy Rates](/MakeoverMonday_34.html)
 
