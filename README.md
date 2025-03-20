@@ -1,7 +1,9 @@
 # **Portfolio**
 ## Morgan Shaw
 ### Heinz College @ CMU, MSPPM '25. He/him.
-[**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [GIS Work](GIS/portfoliopage.md) | [Data Viz](DataViz/portfoliopage.md)
+
+
+### [**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [**GIS Work**](GIS/portfoliopage.md) | [**Data Viz**](DataViz/portfoliopage.md)
 
   
 ### About Me
