@@ -1,8 +1,8 @@
-### [**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [**GIS Work**](GIS/portfoliopage.md) | [**Data Viz**](/DataViz/portfoliopage.md)
+### [**Home**](https://morgansh9212.github.io/morgan_shaw_portfolio/) | [**GIS Work**](portfoliopage.md) | [**Data Viz**](/DataViz/portfoliopage.md)
 # CommuteOptions Memphis Basemap Project
 
 
-[JSON Code](GIS/commuteoptionsbm.json)
+[JSON Code](commuteoptionsbm.json)
 
 
 
