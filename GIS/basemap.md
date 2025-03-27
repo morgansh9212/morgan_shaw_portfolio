@@ -5,8 +5,16 @@
 
 [JSON Code](commuteoptionsbm.json)
 
+### Large Zoom Extent
+<img src="images/basemap/zoom1.png"
+  width="600"/>
+### Medium Zoom Extent  
+<img src="images/basemap/zoom2.png"
+  width="600"/>
 
-
+### Local Zoom Extent
+<img src="images/basemap/zoom3.png"
+  width="600"/>
 
 | Feature Type                | Element Type         | Hex Code   | Color Name       |
 |-----------------------------|----------------------|------------|------------------|
