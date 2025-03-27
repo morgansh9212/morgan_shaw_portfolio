@@ -9,7 +9,12 @@ CommuteOptions is a non-profit located in Memphis, TN that advocates for improvi
 
 Using a combination of Canva's pallette tool and ChatGPT I generated a color palette of six colors from a screenshot of [this page](https://www.commuteoptionsmemphis.com/bicycling):
 
-| Color Name   | Hex Code|
+ChatGPT kindly provided an image with the associated colors.
+
+<img src="images/basemap/Palette_CO.png"
+  width="600"/>
+
+| Color Name   | Hex Code |
 |--------------|----------|
 | Kobicha      | '#6b4f3b'|
 |Nomad         | '#b8b4a2'|
@@ -63,8 +68,12 @@ JSON code for this basemap is available [here.](commuteoptionsbm.json)
 | Water                       | Geometry             | `#3b8bac`  | Boston Blue      |
 | Water                       | Labels/Text/Fill     | `#ffffff`  | White            |
 
+
+
+
 ## Design Decisions
 
+First, I selected the Silver Theme, as I wanted a minimal design that would provide a good base for the colors provided by the palette. 
 This map is to be used by the general public looking for transportation resources. As it is focused on people not necessarily using cars to get around, I made sure that local lower traffic volume and speed roads were easily distinguishable and wide enough for the viewer, especially if they are using this map on a mobile device. Highways are less prominent. 
 Things like transit lines, parks, and points of interest are a brighter orange (appropriately named Memphis Sunset).
 I made sure the design was most easily read at a hyperlocal level, as people walking or biking are generally traveling shorter distances and more interested in the resources within a mile or so of their location.
