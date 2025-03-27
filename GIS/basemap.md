@@ -38,7 +38,8 @@ ChatGPT kindly provided an image with the associated colors.
 #### Local Zoom Extent
 <img src="images/basemap/zoom3.png"
   width="600"/>
-JSON code for this basemap is available [here.](commuteoptionsbm.json)
+  
+**JSON code for this basemap is available [here.](commuteoptionsbm.json)**
 
 ### Palette Table
 
